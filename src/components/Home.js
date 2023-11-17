@@ -9,7 +9,7 @@ const Home = () => {
                 loop={true}
                 muted={true}
                 width="100%"
-                height="90%"
+                height="100%"
                 style={{ position: 'absolute', top: 0, left: 0, zIndex: -1 }}
             />
             <section class="z-10 text-gray-100 w-11/12 body-font">
