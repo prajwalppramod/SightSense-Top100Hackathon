@@ -10,7 +10,7 @@ const Home = () => {
                 muted={true}
                 width="100%"
                 height="90%"
-                style={{ position: 'absolute', top: 0, left: 0, zIndex: -1 }}
+                style={{ position: 'relative', top: 0, left: 0, zIndex: -1 }}
             />
             <section class="z-10 text-gray-100 w-11/12 body-font">
                 <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
