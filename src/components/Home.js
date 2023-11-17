@@ -25,7 +25,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div class="">
-                        <img class="object-cover object-center h-96 rounded" alt="hero" src="\phone.png" />
+                        <img class="object-cover object-center h-96 rounded" alt="hero" src="https://images.squarespace-cdn.com/content/v1/61505c55c04b0a138b337894/1645390738245-6IGLHWF1IOUOOO68X4I4/recommended-camera-apps-2021.png" />
                     </div>
                 </div>
             </section>

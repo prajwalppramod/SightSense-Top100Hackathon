@@ -5,6 +5,7 @@ import Home from './components/Home';
 import Features from './components/Features';
 import Working from './components/Working';
 import Contact from './components/Contact';
+import ImageDescriptionComponent from './components/ImageDescriptionComponent';
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
       <Features/>
       <h1 className='text-white text-4xl pt-5'>How it works</h1>
       <Working/>
+      <ImageDescriptionComponent/>
       <h1 className='text-white text-4xl pt-5'>Contact</h1>
       <Contact/>
     </div>
